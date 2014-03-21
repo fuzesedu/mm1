@@ -3,3 +3,6 @@ Skuska commit-u
 Semestralny projekt na MM1
 
 Main idea: Keyboard
+
+http://sound-ideas.blogspot.cz/2006/09/from-scratch-part-3.html
+https://www.mathworks.com/matlabcentral/newsreader/view_thread/240825
